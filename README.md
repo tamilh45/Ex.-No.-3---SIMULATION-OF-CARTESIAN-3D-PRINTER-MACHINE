@@ -64,8 +64,8 @@
 ![Screenshot 2023-11-21 170741](https://github.com/tamilh45/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150312761/a25bb3a0-90ab-44a4-a40d-97f1e184de13)
 
 
-### Name: 
-### Register Number:
+### Name: sivakumar
+### Register Number: 23013501
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
